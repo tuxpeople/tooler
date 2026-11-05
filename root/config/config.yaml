@@ -1,0 +1,13 @@
+settings:
+  colors:
+    update_true: "table-danger"
+    update_false: ""
+github:
+  - name: "k9s"
+    gh_repo: "derailed/k9s"
+    version: "v0.32.5"
+    filter: "k9s_Windows_amd64.zip$"
+vscode:
+  - name: "YAML"
+    version: "0.0.0"
+    extension: redhat.vscode-yaml

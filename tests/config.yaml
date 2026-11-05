@@ -1,0 +1,14 @@
+# Test configuration for the smoke test: one GitHub release, one VS Code extension
+settings:
+  colors:
+    update_true: "table-danger"
+    update_false: ""
+github:
+  - name: "GitHub CLI"
+    gh_repo: "cli/cli"
+    version: "v0.0.1"
+    filter: "_windows_amd64.zip$"
+vscode:
+  - name: "YAML"
+    version: "0.0.0"
+    extension: redhat.vscode-yaml

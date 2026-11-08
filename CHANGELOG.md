@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.2](https://github.com/tuxpeople/tooler/compare/v1.0.1...v1.0.2) (2026-11-08)
+
+
+### Dependencies
+
+* update image alpine to f59abe6 ([#8](https://github.com/tuxpeople/tooler/issues/8)) ([8c7c822](https://github.com/tuxpeople/tooler/commit/8c7c822e665a5349ad0840a5ef7a693be1cc39f7))
+
 ## [1.0.1](https://github.com/tuxpeople/tooler/compare/v1.0.0...v1.0.1) (2026-11-07)
 
 
